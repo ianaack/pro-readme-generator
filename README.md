@@ -20,10 +20,12 @@ Once everything has been answered, your README.md file will be generated in the 
 ## Links
 
 Terminal output based on user input:
-<img width="1675" alt="terminalOutput" src="https://user-images.githubusercontent.com/47282257/163698341-9769d98a-b70a-4692-bde7-bdc79eb6fa96.png">
+<img width="1085" alt="terminalOutput" src="https://user-images.githubusercontent.com/47282257/163699273-c2b1b92d-63fe-44e3-86a4-c71f38132acd.png">
+
 
 Example generated markdown file:
-<img width="785" alt="generatedMarkdown" src="https://user-images.githubusercontent.com/47282257/163698351-fcdabfb8-cf64-48c4-b555-0a0067699ce4.png">
+<img width="1189" alt="generatedMarkdown" src="https://user-images.githubusercontent.com/47282257/163699272-06fff369-eb0b-4998-83e9-33c3af56e6ba.png">
+
 
 
 
