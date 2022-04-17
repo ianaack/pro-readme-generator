@@ -17,6 +17,7 @@ generateMarkdown = (data) => {
   - [Contribution](#Contribution)
   - [Tests](#Tests)
   - [Questions](#Questions)
+  - [License](#License)
 
   ##
   
@@ -34,9 +35,12 @@ generateMarkdown = (data) => {
 
   ## Questions
   ${data.questions}
-  https://github.com.${data.github}
+  https://github.com/${data.github}
 
   How to reach me for additional questions: ${data.email}
+
+  ## License
+  This project is covered under the ${data.license} License.
   `;
 };
 
