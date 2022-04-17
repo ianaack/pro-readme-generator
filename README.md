@@ -26,7 +26,7 @@ Example generated markdown file:
 <img width="1189" alt="generatedMarkdown" src="https://user-images.githubusercontent.com/47282257/163699272-06fff369-eb0b-4998-83e9-33c3af56e6ba.png">
 
 Walkthrough Video:
-![Module9_Node_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/47282257/163699854-39c23d01-27c5-4606-85a7-cf6e94fb9a39.gif)
+https://drive.google.com/file/d/1hNx1BLuT1Tj_XIL7BwIIgZe7O8vKWaO-/view?usp=sharing
 
 ## Built With
 
